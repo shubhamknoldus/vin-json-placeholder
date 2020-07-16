@@ -9,5 +9,8 @@
 			"compatibleCode": 2,
 			"deviceGeneration": "2"
 		}]
-	}]
+	}],
+
+	"profile": { "name": "typicode"}
+
 }
