@@ -1,0 +1,13 @@
+{
+	"vins" : [{
+		"make": "Acura",
+		"model": "CL",
+		"year": 2003,
+		"found": true,
+		"compatibilityResults": [{
+			"compatibleText": "Compatible*",
+			"compatibleCode": 2,
+			"deviceGeneration": "2"
+		}]
+	}]
+}
